@@ -1,0 +1,1 @@
+6.2.3. Radiotherapy. Intensity-modulated RT (IMRT) or volumetric modulated arc therapy (VMAT) with image-guided RT (IGRT) is currently widely recognised as the standard treatment approach for EBRT. 

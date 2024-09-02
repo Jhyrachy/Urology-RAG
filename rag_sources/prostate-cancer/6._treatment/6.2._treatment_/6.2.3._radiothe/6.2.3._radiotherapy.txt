@@ -1,0 +1,1 @@
+6.2.3. radiotherapy. intensity-modulated rt (imrt) volumetric modulated arc therapy (vmat) image-guided rt (igrt) currently widely recognised standard treatment approach ebrt.
