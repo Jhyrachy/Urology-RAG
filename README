@@ -1,0 +1,5 @@
+The purpose of this repo is for me to collect all my personal attempts in making a working RAG (Retrieval Augmented Generation) for my use case: clinical urological practice.
+For privacy and security purpose (medical informations) my main focus is on local LLM, so my code will be optimized for models of 8B parameters or less, since my ultimate goal is to use everything on computers without dedicated gpu, such as the majority used in hospitals and clinics.
+I'll start with the EAU guidelines, but in future I will add ways to import the papers (at least the abstracts) cited in the guidelines, but in future I would love to add an RSS feed of urological papers from arxiv or pubmed
+
+I'll explore different rag tecniques, but I want to keep my focus on the most computational effective ones for performance reasons.
